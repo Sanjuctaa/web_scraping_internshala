@@ -22,7 +22,7 @@ duration=[]
 
 location=[]
 
-### SCrape the website
+### Scrape the website
 
 for j in range(1,151):
 
